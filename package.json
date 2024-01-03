@@ -138,7 +138,7 @@
     "typescript": "^3.8.2"
   },
   "dependencies": {
-    "@koa/cors": "^2.2.1",
+    "@koa/cors": "^5.0.0",
     "flatted": "^0.2.3",
     "immer": "^9.0.6",
     "koa": "^2.7.0",
